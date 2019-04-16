@@ -13,7 +13,6 @@ bash-3.2# ./salary-seeker.sh
 <img src=https://github.com/b3n-j4m1n/salary-seeker/raw/master/demo.gif>
 </p>
 
-Edited by Nicholas Wozniak
 If you are anything like me, when on a serious job hunt I consider 50+ applications. I was running this script constantly and wanted to store the results somewhere. I was also running it locally on a Linux Subsystem on windows and got a bit sick of using nano to edit the script. 
 
 This script is better optimised to be run multiple times, asking for an Job ID and then storing the results in a csv, including a link to the original job.
