@@ -1,10 +1,12 @@
 # salary-seeker
 
-I didn't chhange much much to the original, but in case I do more stuff I have forked it anyway.
+I didn't change much to the original, but in case I do more stuff I have forked it anyway.
 
-If you are anything like me, when on a serious job hunt I consider 50+ applications. I was running this script constantly and wanted to store the results somewhere. I was also running it locally on a Linux Subsystem on windows and got a bit sick of using nano to edit the script. 
+If you are anything like me, when on a serious job hunt I can consider 50+ possible job opportunities. I was running this script constantly and wanted to store the results somewhere. I was also running it locally on the windows linux subsystem and got a bit sick of using nano to edit the script. 
 
-This script is better optimised to be run multiple times, asking for a Job ID and then storing the results in a csv, including a link to the original job. Work's best using linux or the Windows 10 Linux subsystem. 
+This script is better optimised to be run multiple times, asking for a Job ID and then storing the results in a csv, including a link to the original job. Work's best using linux or the Windows 10 Linux subsystem.
+
+==========================================================================================================================================
 
 The jobs listed on seek.com.au usually hide the salary range. You can use salary range search filters, but this is tedious and still vague.
 
