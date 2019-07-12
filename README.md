@@ -4,7 +4,7 @@ I didn't change much to the original, but in case I do more stuff I have forked 
 
 If you are anything like me, when on a serious job hunt I can consider 50+ possible job opportunities. I was running this script constantly and wanted to store the results somewhere. I was also running it locally on the windows linux subsystem and got a bit sick of using nano to edit the script. 
 
-This script is better optimised to be run multiple times, asking for a Job ID and then storing the results in a csv, including a link to the original job. Work's best using linux or the Windows 10 Linux subsystem.
+This script is better optimised to be run multiple times, asking for a Job ID and then storing the results in a csv, including a link to the original job. Work's best using linux.
 
 ========================================================================
 
